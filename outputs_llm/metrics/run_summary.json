@@ -1,0 +1,19 @@
+{
+  "data_rows": 3000,
+  "train_rows": 2400,
+  "test_rows": 600,
+  "class_order": [
+    "low_risk",
+    "moderate_risk",
+    "high_risk"
+  ],
+  "llm_mode": "hf_local",
+  "llm_samples": 600,
+  "agreement_stats": {
+    "llm_samples": 600,
+    "unanimity_rate_classical": 0.9416666666666667,
+    "unanimity_rate_classical_plus_llm": 0.9416666666666667,
+    "llm_correction_rate_vs_majority": 0.0,
+    "mean_narrative_consistency": 0.046415343915343917
+  }
+}

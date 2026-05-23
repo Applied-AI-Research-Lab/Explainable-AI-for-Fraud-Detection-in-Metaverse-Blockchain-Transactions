@@ -1,0 +1,4 @@
+class,count,ratio
+low_risk,488,0.8133333333333334
+moderate_risk,63,0.105
+high_risk,49,0.08166666666666667
